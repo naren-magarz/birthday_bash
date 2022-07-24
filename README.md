@@ -16,7 +16,7 @@
 - then push your changes to github, git push -u origin your_branch_name
 
 ### color schema 
-   primary color :-#FDF5DF
-   secondary color :-#5EBEC4
-   third color :-#F92C85
-   fourth color :- #ffffff
+   - primary color :-#FDF5DF
+   - secondary color :-#5EBEC4
+   - third color :-#F92C85
+   - fourth color :- #ffffff
