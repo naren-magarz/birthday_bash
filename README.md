@@ -1,2 +1,7 @@
 # birthday_bash
-## this is birthday bash project 
+## Group members
+- aayush panthi
+- nabin gotami
+- lisan rana
+- alina shah
+- naren magar
